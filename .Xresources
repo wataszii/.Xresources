@@ -7,6 +7,7 @@ r.theme: ArchCursorTheme
  ! ~/.gtkrc-2.0
 
  URxvt.font: xft:monospace:size=12
+ URxvt.letterSpace: -2
  URxvt.iso14755: false
  URxvt.iso14755_52: false
  URxvt*scrollBar: false
